@@ -1,0 +1,24 @@
+# ========================
+# Python / Backend
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# ========================
+# OS / Editor (Cursor/VS Code)
+# ========================
+.vscode/
+.DS_Store
+Thumbs.db
